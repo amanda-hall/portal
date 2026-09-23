@@ -1,11 +1,11 @@
 ---
 date: 2026-09-23
 title: EarthCODE Ocean Data Resources
-image: https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg
+image: /img/esa-mediterranean-datacube.png
 feature: true
 ---
 
-# Dive Into Open Science: Exploring EarthCODE’s Ocean Data Resources <!--{ as="img" mode="hero" src="https://esa-earthcode.github.io/portal-assets/blog/Living_Planet_Symposium_2025_pillars-4170729331.jpg" }-->
+# Dive Into Open Science: Exploring EarthCODE’s Ocean Data Resources <!--{ as="img" mode="hero" src="https://earthcode.esa.int/img/esa-mediterranean-datacube.png?raw=true" }-->
 
 ## Dive Into Open Science: Exploring EarthCODE’s Ocean Data Resources
 *Published: 24.09.2026*
@@ -22,7 +22,7 @@ A wealth of ocean data is made available within EarthCODE’s Open Science Catal
 
 EarthCODE has also curated a selection of ocean datasets to support research and innovation in ocean science. To support innovation in ocean science, EarthCODE has curated a selection of datasets for the upcoming ESA Ocean Science Cluster Hackathon (October 2026). These datasets are not only freely accessible but also come with pre-built notebooks to help users get started quickly. To access the notebooks for these datasets, visit the [Ocean Hackathon dataset webpage](https://esa-earthcode.github.io/ocean_hackathon/datasets-sumary/).
 
-_Table 1: Ocean datasets available in the Open Science Catalogue for which access notebooks have been prepared._
+Table 1: Ocean datasets available in the Open Science Catalogue for which access notebooks have been prepared.
 | Dataset Name  | Measurement Description |
 | ------------- | ------------- |
 | 4DMED-SEA sea-surface salinity | Mediterranean salinity and density fields |
@@ -47,17 +47,19 @@ Beyond datasets, the Open Science Catalogue also offers powerful tools for explo
 - [Workflow Catalogue](https://opensciencedata.esa.int/workflows/catalog): Access pre-built workflows to streamline your research
 - [Integrated EO Platforms](https://earthcode.esa.int/ecosystem): Develop and run experiments using EarthCODE’s cloud-based computation resources
 
-FIGURE
-
-_Figure 1: Open Science Catalogue user interface_
+<p align="center">
+  <img src="/img/OSC_UI.png">
+  <figcaption>Figure 1: Open Science Catalogue user interface.</figcaption>
+</p>
 
 In addition to the Open Science Catalogue, EarthCODE has also developed two specialised Datacubes:
 - ESA Mediterranean Datacube: a combined dataset of indicators and variables for the Mediterranean Sea, including temperature, salinity, ocean currents, and more, see Figure 2. Explore the [datacube here](https://earthcode.esa.int/data-collections/mediterranean-cube).
 - ESA Antarctica Datacube: a comprehensive collection of Antarctic variables. See [this blog](https://earthcode.esa.int/blog/polar-hackathon-polar-data) to learn more.
 
-FIGURE
-
-_Figure 2: Example datasets in the ESA Mediterranean Sea Datacube._
+<p align="center">
+  <img src="/img/esa-mediterranean-datacube.png">
+  <figcaption>Figure 2: Example datasets in the ESA Mediterranean Sea Datacube.</figcaption>
+</p>
 
 The Mediterranean Datacube is stored in GeoZarr, a cloud-optimised format that enables fast, scalable processing. Providing data from 2016 to 2022, it uses a standardised, time-series enabled grid to foster reproducible and collaborative science. [Lampata](https://lampata.co.uk/), an EarthCODE partner, has created a series of interactive notebooks to help users explore the Mediterranean Datacube. Access the [notebooks here](https://esa-earthcode.github.io/ocean_hackathon/intro/). 
 
