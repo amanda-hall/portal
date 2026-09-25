@@ -63,6 +63,11 @@ In addition to the Open Science Catalogue, EarthCODE has also developed two spec
 
 The Mediterranean Datacube is stored in GeoZarr, a cloud-optimised format that enables fast, scalable processing. Providing data from 2016 to 2022, it uses a standardised, time-series enabled grid to foster reproducible and collaborative science. [Lampata](https://lampata.co.uk/), an EarthCODE partner, has created a series of interactive notebooks to help users explore the Mediterranean Datacube. Access the [notebooks here](https://esa-earthcode.github.io/ocean_hackathon/intro/). 
 
+<p align="center">
+  <img src="/img/ESAMedCollection-1920x864px.gif">
+  <figcaption>Video of EarthCODE Mediterranean Data Collection.</figcaption>
+</p>
+
 ## How to get Started
 To get started with the EarthCODE Ocean Data, follow these steps:
 1.  Explore the Open Science Catalogue: Visit the EarthCODE [Open Science Catalogue](https://opensciencedata.esa.int/) to browse datasets by theme or project.
